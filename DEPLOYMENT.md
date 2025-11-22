@@ -99,7 +99,7 @@ vercel --prod
 
 - **Deployed App**: [https://token-trading-table-dun.vercel.app/](https://token-trading-table-dun.vercel.app/)
 
-- **Demo Video**: https://youtube.com/watch?v=YOUR_VIDEO_ID
+- **Demo Video**: [https://youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/XSsOOrhRD4U)
 
 - **Repository**: https://github.com/YOUR_USERNAME/token-trading-table
 
