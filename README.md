@@ -4,9 +4,10 @@ A pixel-perfect, production-ready token discovery table built with Next.js 14, f
 
 ## 🚀 Live Demo
 
-- **Deployed App**: [[View on Vercel](https://your-deployment-url.vercel.app)](https://token-trading-table-dun.vercel.app/)
+- **Deployed App**: [View on Vercel](https://token-trading-table-dun.vercel.app/)
 - **Demo Video**: [Watch on YouTube](https://youtube.com/your-video-link)
-- **Repository**: [[GitHub](https://github.com/yourusername/token-trading-table)](https://github.com/bkp12345/token-trading-table/)
+- **Repository**: [GitHub](https://github.com/bkp12345/token-trading-table/)
+
 
 ## ✨ Features
 
