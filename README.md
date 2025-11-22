@@ -206,10 +206,6 @@ Contributions welcome! Please follow these steps:
 4. Push to the branch
 5. Open a pull request
 
-## 📄 License
 
-MIT License - feel free to use for commercial projects
 
----
 
-**Built with ❤️ for the crypto community**
