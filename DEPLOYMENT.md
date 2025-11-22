@@ -100,7 +100,7 @@ Update these sections in README.md:
 ```markdown
 ## 🚀 Live Demo
 
-- **Deployed App**: https://your-project.vercel.app
+- **Deployed App**: https://token-trading-table-dun.vercel.app/
 - **Demo Video**: https://youtube.com/watch?v=YOUR_VIDEO_ID
 - **Repository**: https://github.com/YOUR_USERNAME/token-trading-table
 ```
