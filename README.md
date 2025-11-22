@@ -132,7 +132,6 @@ token-trading-table/
 | Screen Size | Layout | Components |
 |-------------|--------|------------|
 | 320-767px | Mobile | Card-based list |
-| 768-1023px | Tablet | Compact table |
 | 1024px+ | Desktop | Full table |
 
 ## 🧪 Testing
