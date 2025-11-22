@@ -101,6 +101,7 @@ Update these sections in README.md:
 ## 🚀 Live Demo
 
 - **Deployed App**: [https://token-trading-table-dun.vercel.app/](https://token-trading-table-dun.vercel.app/)
+
 - **Demo Video**: https://youtube.com/watch?v=YOUR_VIDEO_ID
 - **Repository**: https://github.com/YOUR_USERNAME/token-trading-table
 ```
