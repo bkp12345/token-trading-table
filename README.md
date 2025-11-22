@@ -151,7 +151,8 @@ token-trading-table/
 ## 📸 Screenshots
 
 ### Desktop View (1920x1080)
-![Desktop](./screenshots/desktop.png)
+<img width="1918" height="1037" alt="image" src="https://github.com/user-attachments/assets/80c1418a-a5c5-484c-a789-44bceb623582" />
+
 
 ### Tablet View (768x1024)
 ![Tablet](./screenshots/tablet.png)
