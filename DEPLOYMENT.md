@@ -101,8 +101,8 @@ vercel --prod
 
 - **Demo Video**: [https://youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/XSsOOrhRD4U)
 
-- **Repository**: https://github.com/YOUR_USERNAME/token-trading-table
-
+- **Repository**: [https://github.com/YOUR_USERNAME/token-trading-table
+](https://github.com/bkp12345/token-trading-table/)
 
 ## Step 6: Test Lighthouse Scores
 
