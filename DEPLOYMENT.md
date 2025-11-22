@@ -110,7 +110,7 @@ vercel --prod
 2. Open DevTools > Lighthouse
 3. Run tests for Mobile and Desktop
 4. Take screenshots of scores
-5. Save to `screenshots/` folder
+
 
 ```bash
 mkdir screenshots
